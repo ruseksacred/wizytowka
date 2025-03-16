@@ -1,1 +1,1 @@
-web: gunicorn wizytowka.wsgi
+web: gunicorn bartoszrustyn.wsgi:application
